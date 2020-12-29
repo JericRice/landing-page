@@ -22,6 +22,12 @@ h1 {
   color: #e2dbdb;
 }
 
+h6 {
+  font-size: .75rem;
+  color: #e2dbdb;
+  padding-bottom: 1em;
+}
+
 .buffer {
   height: 10rem;
 }
